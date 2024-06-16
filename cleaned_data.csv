@@ -1,0 +1,494 @@
+cleaned_data
+Parameter,Min,Target,Max,Actual,UOM
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+DATUM_ZEIT,N/A,N/A,N/A,27-Jul-2023 08:28:54,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 08:28:42,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+WERT_TEXT,N/A,N/A,N/A,XLS_AVD005MAB_INT_VIAL_RELEASE,N/A
+WERT_REAL N/A N/A N/A N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Complete,system (System Account),0,0,27-Jul-2023 08:28:42,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+WERT_TEXT,N/A,N/A,N/A,XLS_AVD005MAB_INT_VIAL_RELEASE,N/A
+WERT_REAL,N/A,N/A,N/A,,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 08:28:42,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+OPERATOR,N/A,N/A,N/A,system,N/A
+ORDER_NR,N/A,N/A,N/A,AVD-005-MAB_INT_VIAL_RELEASE_1,N/A
+PRODUKT_BEZEICHNUNG,N/A,N/A,N/A,MR_INT_VIAL_RELEASE_T,N/A
+PRODUKT_EINHEIT,N/A,N/A,N/A,PC,N/A
+PRODUKT_GROESSE,N/A,N/A,N/A,1,N/A
+PRODUKT_NAME,N/A,N/A,N/A,MC1S1_000010,N/A
+REZEPT_VERSION_DRE,N/A,N/A,N/A,23,N/A
+REZEPT_VERSION_WF,N/A,N/A,N/A,23,N/A
+OM_PROZESS_SEGMENT N/A N/A N/A MC1 N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Complete,system (System Account),0,0,27-Jul-2023 08:28:42,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+WERT_TEXT,N/A,N/A,N/A,,N/A
+WERT_REAL,N/A,N/A,N/A,,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 08:28:42,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+RESULTAT_VERGLEICH,N/A,N/A,N/A,No errors found. All PRs are up to date.,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 08:28:42,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+CAMPAIGN,N/A,N/A,N/A,MC1B1_AVD-005-MAB_1,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 08:28:42,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+OPERATOR,N/A,N/A,N/A,system,N/A
+ORDER_NR,N/A,N/A,N/A,AVD-005-MAB_INT_VIAL_RELEASE_1,N/A
+PRODUKT_BEZEICHNUNG,N/A,N/A,N/A,MR_INT_VIAL_RELEASE_T,N/A
+PRODUKT_EINHEIT,N/A,N/A,N/A,PC,N/A
+PRODUKT_GROESSE,N/A,N/A,N/A,1,N/A
+PRODUKT_NAME,N/A,N/A,N/A,MC1S1_000010,N/A
+REZEPT_VERSION_DRE,N/A,N/A,N/A,23,N/A
+REZEPT_VERSION_WF,N/A,N/A,N/A,23,N/A
+OM_PROZESS_SEGMENT,N/A,N/A,N/A,MC1,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 08:28:42,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+CAMPAIGN,N/A,N/A,N/A,MC1B1_AVD-005-MAB_1,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 08:28:42,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+UNTERSCHRIFT_EINSTELLUNG,N/A,N/A,N/A,OPERATOR,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Operator,tcatuna (Catuna Tudor - Visp),0,0,27-Jul-2023 08:39:25,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+DATUM_ZEIT N/A N/A N/A 27-Jul-2023 08:39:29 N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Complete,system (System Account),0,0,27-Jul-2023 08:39:25,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+PARAMETER01,N/A,N/A,N/A,0,N/A
+PARAMETER02,N/A,N/A,N/A,20,N/A
+PARAMETER03,N/A,N/A,N/A,0,N/A
+PARAMETER04,N/A,N/A,N/A,,N/A
+PARAMETER05,N/A,N/A,N/A,,N/A
+PARAMETER06,N/A,N/A,N/A,,N/A
+PARAMETER07,N/A,N/A,N/A,,N/A
+PARAMETER08,N/A,N/A,N/A,,N/A
+PARAMETER09,N/A,N/A,N/A,,N/A
+PARAMETER10,N/A,N/A,N/A,,N/A
+DATEI,N/A,N/A,N/A,NotUsed,N/A
+KEY_XML_PARAMETER11,N/A,N/A,N/A,NotUsed,N/A
+PARAMETER11,N/A,N/A,N/A,,N/A
+KEY_XML_PARAMETER12,N/A,N/A,N/A,NotUsed,N/A
+PARAMETER12,N/A,N/A,N/A,,N/A
+KEY_XML_PARAMETER13,N/A,N/A,N/A,NotUsed,N/A
+PARAMETER13,N/A,N/A,N/A,,N/A
+KEY_XML_PARAMETER14,N/A,N/A,N/A,NotUsed,N/A
+PARAMETER14,N/A,N/A,N/A,,N/A
+KEY_XML_PARAMETER15,N/A,N/A,N/A,NotUsed,N/A
+PARAMETER15,N/A,N/A,N/A,,N/A
+FORMEL,N/A,"Resultat der Formel:
+Berechnung der Wartezeit in
+Sekunden.",N/A,([[1]]*3600)+([[2]]*60)+[[3]],N/A
+RUNDEN_DIGITS,N/A,N/A,N/A,0,N/A
+RUNDEN_METHODE,N/A,N/A,N/A,Standard Rounding,N/A
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+TEXT01,N/A,N/A,N/A,"Wait 20 minutes for transporter
+equilibration",N/A
+TEXT02,N/A,N/A,N/A,Summe der Wartezeit:,N/A
+TEXT03,N/A,N/A,N/A,0,N/A
+TEXT04,N/A,N/A,N/A,20,N/A
+TEXT05,N/A,N/A,N/A,0,N/A
+TEXT06,N/A,N/A,N/A,Stunden:,N/A
+TEXT07,N/A,N/A,N/A,Minuten:,N/A
+TEXT08,N/A,N/A,N/A,Sekunden:,N/A
+TEXT09,N/A,N/A,N/A,[s],N/A
+TEXT10,N/A,N/A,N/A,,N/A
+DATUMZEIT01,N/A,N/A,N/A,,N/A
+DATUMZEIT02,N/A,N/A,N/A,,N/A
+REAL01,N/A,N/A,N/A,1200,N/A
+REAL02,N/A,N/A,N/A,,N/A
+"""FORMAT.Value"" contains the structure of output
+with placeholders <<t1x>> to <<t10x>>(x: for
+""TEXTx.Value"" v, for ""TEXTx.Target"" t), <<rx>> for
+""REALx.Value"", <<dx>> for ""DATUMZEITx.Value"".
+Consider the additional placeholder <<sp>> space
+character.",N/A,N/A,N/A,Large Data,N/A
+RESULTAT,N/A,N/A,N/A,"Wait 20 minutes for transporter
+equilibration<br/><br/>Summe der
+Wartezeit: 1200[s]<br/><br/>Stunden:
+0<br/>Minuten: 20<br/>Sekunden: 0",N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 08:39:25,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+WERT_TEXT,N/A,N/A,N/A,,N/A
+WERT_REAL,N/A,N/A,N/A,,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 08:39:25,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+DATUM_ZEIT,N/A,N/A,N/A,27-Jul-2023 09:00:11,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 09:00:01,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+TEXT01,N/A,N/A,N/A,AV0122,N/A
+TEXT02,N/A,N/A,N/A,1218-W,N/A
+TEXT03,N/A,N/A,N/A,8,N/A
+TEXT04,N/A,N/A,N/A,61.5,N/A
+TEXT05,N/A,N/A,N/A,;,N/A
+TEXT06,N/A,N/A,N/A,,N/A
+TEXT07,N/A,N/A,N/A,,N/A
+TEXT08,N/A,N/A,N/A,,N/A
+TEXT09,N/A,N/A,N/A,,N/A
+TEXT10,N/A,N/A,N/A,,N/A
+DATUMZEIT01,N/A,N/A,N/A,27-Jul-2023 09:00:11,N/A
+DATUMZEIT02,N/A,N/A,N/A,,N/A
+REAL01,N/A,N/A,N/A,,N/A
+REAL02,N/A,N/A,N/A,,N/A
+"""FORMAT.Value"" contains the structure of output
+with placeholders <<t1x>> to <<t10x>>(x: for
+""TEXTx.Value"" v, for ""TEXTx.Target"" t), <<rx>> for
+""REALx.Value"", <<dx>> for ""DATUMZEITx.Value"".
+Consider the additional placeholder <<sp>> space
+character.",N/A,N/A,N/A,Large Data,N/A
+"AV0122;1218-W;008;61.5;2023-07-
+RESULTAT N/A N/A N/A N/A
+27T09:00:11",0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Complete,system (System Account),0,0,27-Jul-2023 09:00:01,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+LABEL_NAME,N/A,N/A,N/A,Custom_Label8,N/A
+LABEL_ANZAHL,N/A,N/A,N/A,1,N/A
+PRINTER_NAME,N/A,N/A,N/A,I06_MES1_LABEL_PRINTER_32,N/A
+TITEL,N/A,N/A,N/A,AVD-005-MAB,N/A
+PARAMETER1,N/A,AV0122,N/A,Cell Line Name:,N/A
+PARAMETER2,N/A,1218-W,N/A,Cell Bank ID:,N/A
+PARAMETER3,N/A,8,N/A,Vial Number:,N/A
+PARAMETER4,N/A,61.5,N/A,GNR:,N/A
+PARAMETER5,N/A,2023-07-27T09:00:11,N/A,Time of Release:,N/A
+BARCODE,N/A,N/A,N/A,"AV0122;1218-W;008;61.5;2023-07-
+27T09:00:11",N/A
+DATUM_ZEIT,N/A,N/A,N/A,2023-07-27T09:00:16,N/A
+LABEL_DRUCKEN,N/A,N/A,N/A,Passed.,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 09:00:01,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+UNTERSCHRIFT_EINSTELLUNG N/A N/A N/A CURRENT N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Auto Navigate,tcatuna (Catuna Tudor - Visp),0,0,27-Jul-2023 09:02:10,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+WERT_TEXT,N/A,N/A,N/A,To NSYNC (mammalian) Inoculum,N/A
+WERT_REAL,N/A,N/A,N/A,,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 08:28:42,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+SOP_NAME,N/A,N/A,N/A,,N/A
+FORMAT,N/A,N/A,N/A,Large Data,N/A
+UNTERSCHRIFT_EINSTELLUNG,N/A,N/A,N/A,CURRENT,N/A
+AUSWAHL N/A N/A N/A NO N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Auto Navigate,tcatuna (Catuna Tudor - Visp),0,0,27-Jul-2023 08:41:34,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+UNTERSCHRIFT_EINSTELLUNG,N/A,N/A,N/A,OPERATOR_AND_VERIFIER,N/A
+"WERT_TEXT N/A N/A N/A Version 2.0, Controlled Copy 9 N/A",0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Operator,tcatuna (Catuna Tudor - Visp),0,0,27-Jul-2023 08:50:34,0
+Verifier,jallgaeuer (Allgaeuer Julius - Visp),0,0,27-Jul-2023 08:51:26,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+,0,0,0,0,0
+UNTERSCHRIFT_EINSTELLUNG,N/A,N/A,N/A,OPERATOR,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Operator,tcatuna (Catuna Tudor - Visp),0,0,27-Jul-2023 08:58:00,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+ZAEHLER_WERT_NEU N/A N/A N/A 1 N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Complete,system (System Account),0,0,27-Jul-2023 08:58:00,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+SOP_NAME,N/A,N/A,N/A,,N/A
+FORMAT,N/A,N/A,N/A,Large Data,N/A
+UNTERSCHRIFT_EINSTELLUNG,N/A,N/A,N/A,OPERATOR,N/A
+AUSWAHL N/A N/A N/A C N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Operator,tcatuna (Catuna Tudor - Visp),0,0,27-Jul-2023 08:59:07,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+POSITION,N/A,N/A,N/A,0,N/A
+RESULTAT,N/A,N/A,N/A,AVD-005-MAB,N/A
+TEXT,N/A,N/A,N/A,AVD-005-MAB_INT_VIAL_RELEASE_1,N/A
+TRENNZEICHEN,N/A,N/A,N/A,_,N/A
+VORWAERTS,N/A,TRUE,N/A,TRUE,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 09:00:01,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+TEXT01,N/A,N/A,N/A,8,N/A
+TEXT02,N/A,N/A,N/A,N/A,N/A
+TEXT03,N/A,N/A,N/A,N/A,N/A
+TEXT04,N/A,N/A,N/A,N/A,N/A
+TEXT05,N/A,N/A,N/A,N/A,N/A
+TEXT06,N/A,N/A,N/A,_,N/A
+TEXT07,N/A,N/A,N/A,,N/A
+TEXT08,N/A,N/A,N/A,,N/A
+TEXT09,N/A,N/A,N/A,,N/A
+TEXT10,N/A,N/A,N/A,,N/A
+DATUMZEIT01,N/A,N/A,N/A,,N/A
+DATUMZEIT02,N/A,N/A,N/A,,N/A
+REAL01,N/A,N/A,N/A,,N/A
+REAL02,N/A,N/A,N/A,,N/A
+"""FORMAT.Value"" contains the structure of output
+with placeholders <<t1x>> to <<t10x>>(x: for
+""TEXTx.Value"" v, for ""TEXTx.Target"" t), <<rx>> for
+""REALx.Value"", <<dx>> for ""DATUMZEITx.Value"".
+Consider the additional placeholder <<sp>> space
+character.",N/A,N/A,N/A,Large Data,N/A
+RESULTAT N/A N/A N/A 008_N/A_N/A_N/A_N/A N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Complete,system (System Account),0,0,27-Jul-2023 09:00:01,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+UNTERSCHRIFT_EINSTELLUNG N/A N/A N/A CURRENT N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Auto Navigate,tcatuna (Catuna Tudor - Visp),0,0,27-Jul-2023 09:26:30,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+UNTERSCHRIFT_EINSTELLUNG,N/A,N/A,N/A,OPERATOR,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Operator,tcatuna (Catuna Tudor - Visp),0,0,27-Jul-2023 09:31:45,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+UNTERSCHRIFT_EINSTELLUNG,N/A,N/A,N/A,CURRENT,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Auto Navigate,tcatuna (Catuna Tudor - Visp),0,0,27-Jul-2023 09:32:15,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+UNTERSCHRIFT_EINSTELLUNG N/A N/A N/A OPERATOR N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Operator,tcatuna (Catuna Tudor - Visp),0,0,27-Jul-2023 09:32:35,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+OPERATOR,N/A,N/A,N/A,system,N/A
+ORDER_NR,N/A,N/A,N/A,AVD-005-MAB_INT_VIAL_RELEASE_1,N/A
+PRODUKT_BEZEICHNUNG,N/A,N/A,N/A,MR_INT_VIAL_RELEASE_T,N/A
+PRODUKT_EINHEIT,N/A,N/A,N/A,PC,N/A
+PRODUKT_GROESSE,N/A,N/A,N/A,1,N/A
+PRODUKT_NAME,N/A,N/A,N/A,MC1S1_000010,N/A
+REZEPT_VERSION_DRE,N/A,N/A,N/A,23,N/A
+REZEPT_VERSION_WF,N/A,N/A,N/A,23,N/A
+OM_PROZESS_SEGMENT,N/A,N/A,N/A,MC1,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 09:32:35,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+ORDER_ID,N/A,N/A,N/A,AVD-005-MAB_INT_VIAL_RELEASE_1,N/A
+ELEMENTE_ANZAHL N/A N/A N/A 0 N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Complete,system (System Account),0,0,27-Jul-2023 09:32:35,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+OPERATOR,N/A,N/A,N/A,system,N/A
+ORDER_NR,N/A,N/A,N/A,AVD-005-MAB_INT_VIAL_RELEASE_1,N/A
+PRODUKT_BEZEICHNUNG,N/A,N/A,N/A,MR_INT_VIAL_RELEASE_T,N/A
+PRODUKT_EINHEIT,N/A,N/A,N/A,PC,N/A
+PRODUKT_GROESSE,N/A,N/A,N/A,1,N/A
+PRODUKT_NAME,N/A,N/A,N/A,MC1S1_000010,N/A
+REZEPT_VERSION_DRE,N/A,N/A,N/A,23,N/A
+REZEPT_VERSION_WF,N/A,N/A,N/A,23,N/A
+OM_PROZESS_SEGMENT N/A N/A N/A MC1 N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Complete,system (System Account),0,0,27-Jul-2023 09:32:35,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+ORDER_CHECK,N/A,N/A,N/A,1,N/A
+ORDER_NR,N/A,N/A,N/A,AVD-005-MAB_INT_VIAL_RELEASE_1,N/A
+ORDER_CHECK_RESULTAT,N/A,N/A,N/A,FALSE,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 09:32:35,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+PRIORITAET,N/A,AutoCloseOrder,N/A,,N/A
+STATUS N/A N/A N/A True N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Complete,system (System Account),0,0,27-Jul-2023 09:32:35,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+OPERATOR,N/A,N/A,N/A,system,N/A
+ORDER_NR,N/A,N/A,N/A,AVD-005-MAB_INT_VIAL_RELEASE_1,N/A
+PRODUKT_BEZEICHNUNG,N/A,N/A,N/A,MR_INT_VIAL_RELEASE_T,N/A
+PRODUKT_EINHEIT,N/A,N/A,N/A,PC,N/A
+PRODUKT_GROESSE,N/A,N/A,N/A,1,N/A
+PRODUKT_NAME,N/A,N/A,N/A,MC1S1_000010,N/A
+REZEPT_VERSION_DRE,N/A,N/A,N/A,23,N/A
+REZEPT_VERSION_WF,N/A,N/A,N/A,23,N/A
+OM_PROZESS_SEGMENT,N/A,N/A,N/A,MC1,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 09:32:35,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+ORDER_CHECK,N/A,N/A,N/A,1,N/A
+ORDER_NR,N/A,N/A,N/A,AVD-005-MAB_INT_VIAL_RELEASE_1,N/A
+ORDER_CHECK_RESULTAT,N/A,N/A,N/A,FALSE,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 09:32:35,0
+,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+PRIORITAET,N/A,AutoCloseOrder,N/A,,N/A
+STATUS,N/A,N/A,N/A,TRUE,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 09:32:35,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+ORDER_NR,N/A,N/A,N/A,AVD-005-MAB_INT_VIAL_RELEASE_1,N/A
+ORDER_MSG_RESULTAT,N/A,N/A,N/A,Pass,N/A
+Required Signature Electronic Signature Date,0,0,0,0,0
+Complete,system (System Account),0,0,27-Jul-2023 09:32:35,0
+,0,0,0,0,0
+,0,0,0,0,0
+0,0,0,0,0,0
+Start Date,0,0,0,0,0
+DATUM_ZEIT N/A N/A N/A 27-Jul-2023 09:33:41 N/A,0,0,0,0,0
+Required Signature,Electronic Signature,0,0,Date,0
+Complete,system (System Account),0,0,27-Jul-2023 09:32:35,0
